@@ -7,5 +7,5 @@ The dataset and the details about this hackathon can be viewed here - https://da
 ### Results
 
 The evaluation score for this hackathon is weighted F1-score. 
-* The top score the winner achieved is 0.53999.
+* The top score the winner achieved is 0.53994.
 * The score I achieved is 0.53164, which put me in the 83rd position.
